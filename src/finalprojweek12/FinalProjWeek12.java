@@ -38,25 +38,25 @@ public class FinalProjWeek12 extends Application {
         launch(args);
     }
 
-//    static String accesslevel;
-//    static Integer empID;
-//    static String fName;
-//    static String lName;
-//    static String address;
-//    static String city;
-//    static String state;
-//    static Integer zip;
-//    static String phone;
-//    static String email;
-//    static String dept;
-//    static String role;
-//    static Integer level;
-//    static Integer superv;
-//    static float rate;
-//    static String ins;
-//    static String insID;
-//    static Integer depend;
-//    static float insprem;
+    static String accesslevel;
+    static Integer empID;
+    static String fName;
+    static String lName;
+    static String address;
+    static String city;
+    static String state;
+    static Integer zip;
+    static String phone;
+    static String email;
+    static String dept;
+    static String role;
+    static Integer level;
+    static Integer superv;
+    static float rate;
+    static String ins;
+    static String insID;
+    static Integer depend;
+    static float insprem;
 
     @Override
     public void start(Stage primaryStage) throws Exception {
